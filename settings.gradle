@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "QuickLogin"
-include ':app'
+include ':QuickLogin'
